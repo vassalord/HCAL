@@ -1,0 +1,1 @@
+/afs/cern.ch/work/k/klo/hcal/PromptAnalysis/ForColin/HcalTupleAnalyzer/macros/analysisClass_Example.C
